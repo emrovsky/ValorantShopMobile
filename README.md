@@ -4,7 +4,7 @@ A program written in python that allows you to look at your valorant store.
 
 ## Installation
 
-To [download](https://github.com/PythonGunlukleri/ValorantShopMobile/releases) go to the link and install last release
+To [download](https://github.com/PythonGunlukleri/ValorantShopMobile/releases) go to the link and install latest release
 
 
 
